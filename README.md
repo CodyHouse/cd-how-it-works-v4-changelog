@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 How It Works v4 - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the How It Works v4 component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/how-it-works-v4)
+- [Info Page](https://codyhouse.co/ds/components/info/how-it-works-v4)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
